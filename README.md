@@ -1,4 +1,4 @@
-﻿# Welcome to my *very cool* project!
+# Welcome to my *very cool* project!
 
 ## This project, made with Javascript, will gaze at your soul and will reveal:
 
